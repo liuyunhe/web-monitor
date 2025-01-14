@@ -1,5 +1,5 @@
 {
-  "name": "web-see",
+  "name": "web-monitor",
   "private": true,
   "description": "前端监控SDK，可用来收集并上报：代码报错、性能数据、用户行为、加载资源、个性化指标等数据",
   "scripts": {
@@ -17,7 +17,7 @@
     "web monitor",
     "web see sdk"
   ],
-  "author": "海阔天空",
+  "author": "shepard",
   "license": "ISC",
   "dependencies": {
     "@changesets/cli": "^2.26.1",
@@ -58,7 +58,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:xy-sea/web-see.git"
+    "url": "git@github.com:liuyunhe/web-monitor.git"
   },
   "config": {
     "commitizen": {
